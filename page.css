@@ -1,0 +1,22 @@
+h1, h2, h3, h4, h5 {
+	text-align: center;
+	font-family: Helvetica;
+}
+
+ul {
+	background-color: #fff0f5;
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 30%;
+	margin: auto;
+	border: solid #dc7caa;
+	font-family: Helvetica;
+}
+
+li {
+	margin-left: 20px;
+}
+
+strong {
+	margin-left: -20px;
+}
